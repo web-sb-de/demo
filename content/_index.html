@@ -9,117 +9,17 @@ sitemap:
   priority: 1.0
 ---
 
-<style>
-  .flex-col,
-  .flex-col-reverse {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-  }
-  .flex-col > div,
-  .flex-col-reverse > div {
-    flex: 1;
-    max-width: 500px;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-  }
-  @media (max-width: 768px) {
-    .flex-col-reverse {
-      flex-direction: column-reverse !important;
-    }
-    .flex-col {
-      flex-direction: column !important;
-    }
-  }
-</style>
-<section id="hero" style="position: relative; height: 80vh; display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center; color: #fff; overflow: hidden">
-  <div class="img-container" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%">
-    <img src="/cover.webp" alt="Hero Bild" style="width: 100%; height: 100%; object-fit: cover; max-height: 100%; border-radius: 0" loading="lazy" />
+<section class="hero-section">
+  <div class="hero-img-container">
+    <img class="hero-img" src="/cover.webp" alt="Hero Bild" loading="lazy" />
   </div>
-  <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(#00000055 50%, transparent)"></div>
+  <div class="hero-overlay" style="background: radial-gradient(#00000055 50%, transparent)"></div>
   <h1>Ergotherapie Brunner in Pocking</h1>
-  <p>Unser Wissen für Ihre Gesundheit</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center">
-    <a class="btn">{{< icon "google" >}}</a>
-    <a class="btn">{{< icon "facebook" >}}</a>
-    <a class="btn">{{< icon "instagram" >}}</a>
-    <a class="btn">{{< icon "youtube" >}}</a>
-    <a class="btn">{{< icon "tiktok" >}}</a>
-    <a class="btn">{{< icon "twitter" >}}</a>
-    <a class="btn">{{< icon "linkedin" >}}</a>
-    <a class="btn">{{< icon "pinterest" >}}</a>
-    <a class="btn">{{< icon "snapchat" >}}</a>
-    <a class="btn">{{< icon "whatsapp" >}}</a>
+  <h2>Unser Wissen für Ihre Gesundheit</h2>
+  <div class="btn-group">
+    <a class="btn" aria-label="Google" title="Google">{{< icon "google" >}}</a>
+    <a class="btn" aria-label="Facebook" title="Facebook">{{< icon "facebook" >}}</a>
+    <a class="btn" aria-label="Instagram" title="Instagram">{{< icon "instagram" >}}</a>
   </div>
-  <a href="/termin/" class="btn">{{< icon "whatsapp" >}} Termin vereinbaren</a>
-</section>
-
-<section class="flex-col-reverse">
-  <div>
-    <h2>Über uns</h2>
-    <p>Wir sind seit über 15 Jahren in Pocking und Umgebung tätig. Unser Wissen für Ihre Gesundheit – wir helfen Ihnen, Ihre Fähigkeiten im Alltag zurückzugewinnen.</p>
-    <a href="/termin/" class="btn">Termin vereinbaren</a>
-    <a href="/termin/" class="btn">{{< icon "whatsapp" >}} Termin vereinbaren</a>
-  </div>
-  <div>
-    <img src="/logo.webp" alt="Titelbild" loading="lazy" />
-  </div>
-</section>
-
-<section id="ueber-uns" class="flex-col">
-  <div class="img-container">
-    <img src="/raum.webp" alt="Titelbild" loading="lazy" />
-  </div>
-  <div>
-    <h2>Über uns</h2>
-    <p>Wir sind seit über 15 Jahren in Pocking und Umgebung tätig. Unser Wissen für Ihre Gesundheit – wir helfen Ihnen, Ihre Fähigkeiten im Alltag zurückzugewinnen.</p>
-    <h3>Werde Teil unseres Teams</h3>
-    <a href="/stellenangebote/">Stellenangebote</a>
-  </div>
-</section>
-<section id="leistungen" class="flex-col">
-  <div class="img-container">
-    <img src="/raum.webp" alt="Titelbild" loading="lazy" />
-  </div>
-  <div>
-    <h2>Unsere Leistungen</h2>
-    <h3>Neurologie</h3>
-    <p>Rehabilitation nach Schlaganfall, bei Parkinson oder Multipler Sklerose zur Wiedererlangung von Alltagsfähigkeiten.</p>
-    <h3>Neurologie</h3>
-    <p>Rehabilitation nach Schlaganfall, bei Parkinson oder Multipler Sklerose zur Wiedererlangung von Alltagsfähigkeiten.</p>
-    <h3>Neurologie</h3>
-    <p>Rehabilitation nach Schlaganfall, bei Parkinson oder Multipler Sklerose zur Wiedererlangung von Alltagsfähigkeiten.</p>
-    <h3>Neurologie</h3>
-    <p>Rehabilitation nach Schlaganfall, bei Parkinson oder Multipler Sklerose zur Wiedererlangung von Alltagsfähigkeiten.</p>
-  </div>
-</section>
-<section>
-  <h2>Häufige Fragen zur Ergotherapie</h2>
-  <details>
-    <summary>Brauche ich eine ärztliche Verordnung?</summary>
-    <p>Ja, Ergotherapie ist ein medizinisches Heilmittel. Sie benötigen ein Rezept von Ihrem Hausarzt, Kinderarzt oder Neurologen.</p>
-  </details>
-  <details>
-    <summary>Bieten Sie Hausbesuche an?</summary>
-    <p>Ja, wenn Ihr Arzt "Hausbesuch" auf dem Rezept verordnet hat, kommen wir im Umkreis von 20 km gerne zu Ihnen nach Hause.</p>
-  </details>
-  <details>
-    <summary>Was kostet eine Ergotherapie-Sitzung?</summary>
-    <p>Ergotherapie ist eine Kassenleistung. Die Kosten werden von Ihrer Krankenkasse übernommen, sofern ein Rezept vorliegt. Bei privater Krankenversicherung können die Konditionen variieren.</p>
-  </details>
-  <details>
-    <summary>Wie lange dauert eine Behandlung?</summary>
-    <p>Eine Behandlungseinheit dauert in der Regel 30-60 Minuten. Die Gesamtdauer der Therapie hängt von Ihrem individuellen Bedarf ab und wird mit Ihrem Arzt abgestimmt.</p>
-  </details>
-  <details>
-    <summary>Behandeln Sie auch Kinder?</summary>
-    <p>Nein, wir behandeln keine Kinder. Unsere Therapie richtet sich an Erwachsene und Senioren.</p>
-  </details>
-  <details>
-    <summary>Was muss ich zu meinem ersten Termin mitbringen?</summary>
-    <p>Bringen Sie bitte Ihr Rezept, Ihren Personalausweis und ggf. vorhandene Befunde oder Berichte von anderen Ärzten mit.</p>
-  </details>
+  <a href="/termin/" class="btn" aria-label="Termin vereinbaren" title="Termin vereinbaren">{{< icon "calendar" >}} Termin vereinbaren</a>
 </section>

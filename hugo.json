@@ -23,8 +23,8 @@
     "colors": {
       "background": "#ffffff",
       "text": "#000000",
-      "surface": "#ebeeff",
-      "element_background": "#304ffe",
+      "surface": "#ebf4eb",
+      "element_background": "#027000",
       "element_text": "#ffffff"
     },
     "description": "WEB-SB - Professionelle Webentwicklung für gemeinnützige Vereine. Minimalistische, ultraschnelle Websites mit Hugo.",

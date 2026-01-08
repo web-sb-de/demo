@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Layouts on WEB-SB - Professionelle, statische Webentwicklung</title><link>http://:1313/layouts/</link><description>Recent content in Layouts on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://:1313/layouts/index.xml" rel="self" type="application/rss+xml"/><item><title>Grid</title><link>http://:1313/layouts/grid/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>http://:1313/layouts/grid/</guid><description>&lt;section&gt;
+ &lt;div class="container"&gt;
+ &lt;h1&gt;Unser Team&lt;/h1&gt;
+ &lt;style&gt;
+ .grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ gap: 1rem;
+ }
+ .grid-item {
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 1rem;
+ }
+ .grid-item img {
+ width: 200px;
+ height: 250px;
+ object-fit: cover;
+ border-radius: 1rem;
+ }
+ &lt;/style&gt;
+
+ &lt;h2&gt;Vorstandschaft&lt;/h2&gt;
+ &lt;div class="grid"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="https://picsum.photos/300/300?random=1" alt="Bernhard Eichler" /&gt;
+ &lt;h3&gt;Bernhard Eichler&lt;/h3&gt;
+ &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
+ &lt;p&gt;Mobil: +4915115675579&lt;/p&gt;
+ &lt;p&gt;E-Mail: kommandant@feuerwehr-koesslarn.de&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="https://picsum.photos/300/300?random=2" alt="Markus Kantner" /&gt;
+ &lt;h3&gt;Markus Kantner&lt;/h3&gt;
+ &lt;p&gt;Atemschutzwart&lt;/p&gt;
+ &lt;p&gt;Mobil: +491712449921&lt;/p&gt;
+ &lt;p&gt;E-Mail: atemschutz@feuerwehr-koesslarn.de&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="https://picsum.photos/300/300?random=3" alt="Andreas Baumgartner" /&gt;
+ &lt;h3&gt;Andreas Baumgartner&lt;/h3&gt;
+ &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
+ &lt;p&gt;E-Mail: jugendwart@feuerwehr-koesslarn.de&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="https://picsum.photos/300/300?random=4" alt="Walter Plattner" /&gt;
+ &lt;h3&gt;Walter Plattner&lt;/h3&gt;
+ &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>flex-cols</title><link>http://:1313/layouts/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>http://:1313/layouts/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="http://:1313/cover.webp" alt="Titelbild" loading="lazy" /&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;h2&gt;flex-col&lt;/h2&gt;
+ &lt;p&gt;
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+ nisi ut aliquip ex ea commodo consequat.
+ &lt;/p&gt;
+
+ &lt;h3&gt;Werde Teil unseres Teams&lt;/h3&gt;
+ &lt;a href="http://:1313/kontakt/"&gt;Stellenangebote&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class="flex-col-reverse"&gt;
+ &lt;div&gt;
+ &lt;img src="http://:1313/cover.webp" alt="Titelbild" loading="lazy" /&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;h2&gt;flex-col-reverse&lt;/h2&gt;
+ &lt;p&gt;
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+ nisi ut aliquip ex ea commodo consequat.
+ &lt;/p&gt;</description></item></channel></rss>
