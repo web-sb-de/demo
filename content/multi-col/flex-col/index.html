@@ -8,9 +8,7 @@ sitemap:
 ---
 
 <section id="ueber-uns" class="flex-col">
-  <div class="img-container">
-    <img src="https://picsum.photos/300/300?random=1" alt="Titelbild" loading="lazy" />
-  </div>
+  <div>{{< img src="photo1.webp" width="1000x" alt="Cover" >}}</div>
   <div>
     <h2>flex-col mit wenig Text</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -19,9 +17,8 @@ sitemap:
 </section>
 
 <section class="flex-col-reverse">
-  <div>
-    <img src="https://picsum.photos/400/200?random=2" alt="Titelbild" loading="lazy" />
-  </div>
+  <div>{{< img src="photo2.webp" width="1000x" alt="Cover" >}}</div>
+
   <div>
     <h2>flex-col-reverse mit viel Text</h2>
     <p>
@@ -42,9 +39,8 @@ sitemap:
 </section>
 
 <section class="flex-col">
-  <div class="img-container">
-    <img src="https://picsum.photos/200/400?random=3" alt="Titelbild" loading="lazy" />
-  </div>
+  <div>{{< img src="photo3.webp" width="1000x" alt="Cover" >}}{{< img src="photo4.webp" width="1000x" alt="Cover" >}}</div>
+
   <div>
     <h2>flex-col mit mittel Text</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
