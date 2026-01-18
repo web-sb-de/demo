@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>multi-col on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/multi-col/</link><description>Recent content in multi-col on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Wed, 14 Jan 2026 22:12:20 +0100</lastBuildDate><atom:link href="https://demo.web-sb.de/multi-col/index.xml" rel="self" type="application/rss+xml"/><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>multi-col on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/multi-col/</link><description>Recent content in multi-col on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Sat, 17 Jan 2026 21:02:16 +0100</lastBuildDate><atom:link href="https://demo.web-sb.de/multi-col/index.xml" rel="self" type="application/rss+xml"/><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
  &lt;div&gt;
 
 
@@ -166,12 +166,15 @@
  
 
  &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
- &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
+ &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;style&gt;&lt;/style&gt;
+
+&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
  &lt;h1&gt;Bildergalerie&lt;/h1&gt;
 
  &lt;p&gt;Hier ist eine Übersicht zufälliger Bilder. Klicke auf ein Bild, um es vergrößert anzuzeigen.&lt;/p&gt;
 
  &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
  
  
  
@@ -185,13 +188,14 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo1_hu_20b06eaad64a3e4d.webp"
  alt="Cover"
  loading="lazy"
  style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
  /&gt;
  
+
  
  
  
@@ -205,13 +209,14 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo2_hu_6dea888b10e99bda.webp"
  alt="Cover"
  loading="lazy"
  style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
  /&gt;
  
+
  
  
  
@@ -225,13 +230,14 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo3_hu_b580939d28eab708.webp"
  alt="Cover"
  loading="lazy"
  style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
  /&gt;
  
+
  
  
  
@@ -245,13 +251,14 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo4_hu_6565be25c6aa7e5d.webp"
  alt="Cover"
  loading="lazy"
  style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
  /&gt;
  
+
  
  
  
@@ -265,13 +272,14 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo5_hu_6b51b422091289e1.webp"
  alt="Cover"
  loading="lazy"
  style="aspect-ratio: 1000 / 666; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J4wCdAD0rrwWAAD2ojytjH16Cn5EQzLL6ncIEIlwo83a8Yl/EJQA); background-size: cover; background-repeat: no-repeat; "
  /&gt;
  
+
  
  
  
@@ -285,7 +293,7 @@
  
  
  &lt;img
- class="img-gallery"
+ class="img-gallery img-thumb"
  src="https://demo.web-sb.de/multi-col/galerie/photo6_hu_442f81fe371f8580.webp"
  alt="Cover"
  loading="lazy"

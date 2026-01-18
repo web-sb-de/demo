@@ -7,14 +7,20 @@ sitemap:
   priority: 0.1
 ---
 
+<style></style>
+
 <section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center">
   <h1>Bildergalerie</h1>
 
   <p>Hier ist eine Übersicht zufälliger Bilder. Klicke auf ein Bild, um es vergrößert anzuzeigen.</p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center">
-    {{< img class="img-gallery" src="photo1.webp" width="1000x" alt="Cover" >}} {{< img class="img-gallery" src="photo2.webp" width="1000x" alt="Cover" >}} {{< img class="img-gallery"
-    src="photo3.webp" width="1000x" alt="Cover" >}} {{< img class="img-gallery" src="photo4.webp" width="1000x" alt="Cover" >}} {{< img class="img-gallery" src="photo5.webp" width="1000x" alt="Cover"
-    >}} {{< img class="img-gallery" src="photo6.webp" width="1000x" alt="Cover" >}}
+    <!-- prettier-ignore -->
+    {{< img class="img-gallery img-thumb" src="photo1.webp" width="1000x" alt="Cover" >}}
+    {{< img class="img-gallery img-thumb" src="photo2.webp" width="1000x" alt="Cover" >}}
+    {{< img class="img-gallery img-thumb" src="photo3.webp" width="1000x" alt="Cover" >}}
+    {{< img class="img-gallery img-thumb" src="photo4.webp" width="1000x" alt="Cover" >}}
+    {{< img class="img-gallery img-thumb" src="photo5.webp" width="1000x" alt="Cover" >}}
+    {{< img class="img-gallery img-thumb" src="photo6.webp" width="1000x" alt="Cover" >}}
   </div>
 </section>
