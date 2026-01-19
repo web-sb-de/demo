@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>multi-col on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/multi-col/</link><description>Recent content in multi-col on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Sat, 17 Jan 2026 21:02:16 +0100</lastBuildDate><atom:link href="https://demo.web-sb.de/multi-col/index.xml" rel="self" type="application/rss+xml"/><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>multi-col on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/multi-col/</link><description>Recent content in multi-col on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://demo.web-sb.de/multi-col/index.xml" rel="self" type="application/rss+xml"/><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
  &lt;div&gt;
 
 
@@ -59,114 +59,7 @@
  &lt;p&gt;
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
  nisi ut aliquip ex ea commodo consequat.
- &lt;/p&gt;</description></item><item><title>grid</title><link>https://demo.web-sb.de/multi-col/grid/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/grid/</guid><description>&lt;section&gt;
- &lt;h1&gt;Unser Team&lt;/h1&gt;
- &lt;h2&gt;Vorstandschaft&lt;/h2&gt;
- &lt;div class="grid"&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery"
- src="https://demo.web-sb.de/multi-col/grid/photo1_hu_3b47150a9ac5dba6.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Max Mustermann&lt;/h3&gt;
- &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567890&lt;/p&gt;
- &lt;p&gt;E-Mail: max.mustermann@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo2_hu_c2b5d7ebf25e4be2.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Anna Schmidt&lt;/h3&gt;
- &lt;p&gt;Atemschutzwart&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567891&lt;/p&gt;
- &lt;p&gt;E-Mail: anna.schmidt@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo3_hu_46c6b262d7db7a9c.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Peter Müller&lt;/h3&gt;
- &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
- &lt;p&gt;E-Mail: peter.mueller@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo4_hu_b56cb13f31495a28.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 334; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
- &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;style&gt;&lt;/style&gt;
+ &lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;style&gt;&lt;/style&gt;
 
 &lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
  &lt;h1&gt;Bildergalerie&lt;/h1&gt;
@@ -302,4 +195,111 @@
  
 
  &lt;/div&gt;
-&lt;/section&gt;</description></item></channel></rss>
+&lt;/section&gt;</description></item><item><title>grid</title><link>https://demo.web-sb.de/multi-col/grid/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/grid/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Unser Team&lt;/h1&gt;
+ &lt;h2&gt;Vorstandschaft&lt;/h2&gt;
+ &lt;div class="grid"&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery"
+ src="https://demo.web-sb.de/multi-col/grid/photo1_hu_3b47150a9ac5dba6.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Max Mustermann&lt;/h3&gt;
+ &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
+ &lt;p&gt;Mobil: +491234567890&lt;/p&gt;
+ &lt;p&gt;E-Mail: max.mustermann@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo2_hu_c2b5d7ebf25e4be2.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Anna Schmidt&lt;/h3&gt;
+ &lt;p&gt;Atemschutzwart&lt;/p&gt;
+ &lt;p&gt;Mobil: +491234567891&lt;/p&gt;
+ &lt;p&gt;E-Mail: anna.schmidt@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo3_hu_46c6b262d7db7a9c.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Peter Müller&lt;/h3&gt;
+ &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
+ &lt;p&gt;E-Mail: peter.mueller@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo4_hu_b56cb13f31495a28.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 334; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
+ &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item></channel></rss>

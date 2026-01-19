@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/aktuelles/</link><description>Recent content in Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://demo.web-sb.de/aktuelles/index.xml" rel="self" type="application/rss+xml"/><item><title>Termine</title><link>https://demo.web-sb.de/aktuelles/termine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/termine/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Termine&lt;/h1&gt;
+ &lt;p&gt;Alle Termine unseres Vereins für das Jahr 2026.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Januar&lt;/h2&gt;
+ &lt;h3&gt;Termin 1&lt;/h3&gt;
+ &lt;h4&gt;Montag, 15.01.2026, 19:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;
+ Beschreibung für Termin 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+ exercitation ullamco.
+ &lt;/p&gt;
+ &lt;div&gt;
+
+
+
+
+
+
+
+
+
+ 
+ &lt;img class="" src="https://demo.web-sb.de/cover.webp" alt="Kripperlweg Sonntag" loading="lazy" style="max-width: 500px;" /&gt;
+
+&lt;/div&gt;
+
+ &lt;h3&gt;Termin 2&lt;/h3&gt;
+ &lt;h4&gt;Dienstag, 16.01.2026, 19:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;Beschreibung für Termin 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Februar&lt;/h2&gt;
+ &lt;h3&gt;Sed do eiusmod tempor&lt;/h3&gt;
+ &lt;h4&gt;Dienstag, 10.02.2026, 18:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+ nulla pariatur.
+ &lt;/p&gt;</description></item><item><title>Sommerfest</title><link>https://demo.web-sb.de/aktuelles/fest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/fest/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Kripperlweg 2025&lt;/h1&gt;
+ &lt;p&gt;Erleben Sie die festliche Stimmung auf unserem Kripperlweg im Dezember 2025. Entdecken Sie liebevoll gestaltete Krippen und genießen Sie die weihnacht&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
+ &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo1_hu_20b06eaad64a3e4d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo2_hu_6dea888b10e99bda.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo3_hu_b580939d28eab708.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo4_hu_6565be25c6aa7e5d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo5_hu_6b51b422091289e1.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 666; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J4wCdAD0rrwWAAD2ojytjH16Cn5EQzLL6ncIEIlwo83a8Yl/EJQA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo6_hu_442f81fe371f8580.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoKAAcAAph8J5wC7AELU0cqAAD&amp;#43;TM&amp;#43;uj9fSOl4A&amp;#43;eh4aoAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
+ &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;</description></item></channel></rss>

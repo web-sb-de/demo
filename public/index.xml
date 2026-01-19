@@ -1,4 +1,646 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/</link><description>Recent content in Startseite on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Sat, 17 Jan 2026 21:02:16 +0100</lastBuildDate><atom:link href="https://demo.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Icons</title><link>https://demo.web-sb.de/icons/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/icons/</guid><description>&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/</link><description>Recent content in Startseite on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://demo.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Termine</title><link>https://demo.web-sb.de/aktuelles/termine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/termine/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Termine&lt;/h1&gt;
+ &lt;p&gt;Alle Termine unseres Vereins für das Jahr 2026.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Januar&lt;/h2&gt;
+ &lt;h3&gt;Termin 1&lt;/h3&gt;
+ &lt;h4&gt;Montag, 15.01.2026, 19:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;
+ Beschreibung für Termin 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+ exercitation ullamco.
+ &lt;/p&gt;
+ &lt;div&gt;
+
+
+
+
+
+
+
+
+
+ 
+ &lt;img class="" src="https://demo.web-sb.de/cover.webp" alt="Kripperlweg Sonntag" loading="lazy" style="max-width: 500px;" /&gt;
+
+&lt;/div&gt;
+
+ &lt;h3&gt;Termin 2&lt;/h3&gt;
+ &lt;h4&gt;Dienstag, 16.01.2026, 19:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;Beschreibung für Termin 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Februar&lt;/h2&gt;
+ &lt;h3&gt;Sed do eiusmod tempor&lt;/h3&gt;
+ &lt;h4&gt;Dienstag, 10.02.2026, 18:00 Uhr&lt;/h4&gt;
+ &lt;p&gt;
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+ nulla pariatur.
+ &lt;/p&gt;</description></item><item><title>Sommerfest</title><link>https://demo.web-sb.de/aktuelles/fest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/fest/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Kripperlweg 2025&lt;/h1&gt;
+ &lt;p&gt;Erleben Sie die festliche Stimmung auf unserem Kripperlweg im Dezember 2025. Entdecken Sie liebevoll gestaltete Krippen und genießen Sie die weihnacht&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
+ &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo1_hu_20b06eaad64a3e4d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo2_hu_6dea888b10e99bda.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo3_hu_b580939d28eab708.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo4_hu_6565be25c6aa7e5d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo5_hu_6b51b422091289e1.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 666; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J4wCdAD0rrwWAAD2ojytjH16Cn5EQzLL6ncIEIlwo83a8Yl/EJQA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/aktuelles/fest/photo6_hu_442f81fe371f8580.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoKAAcAAph8J5wC7AELU0cqAAD&amp;#43;TM&amp;#43;uj9fSOl4A&amp;#43;eh4aoAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h2&gt;Kripperlweg Sonntag, 14.12.2025&lt;/h2&gt;
+ &lt;p&gt;Am Sonntag setzen wir den Kripperlweg fort. Lassen Sie sich von der weihnachtlichen Atmosphäre verzaubern.&lt;/p&gt;</description></item><item><title>Vorstandschaft</title><link>https://demo.web-sb.de/ueber-uns/vorstandschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/ueber-uns/vorstandschaft/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Vorstand&amp;shy;schaft&lt;/h1&gt;
+ &lt;p&gt;
+ Unsere engagierte Vorstandschaft setzt sich aus erfahrenen Mitgliedern zusammen, die sich leidenschaftlich für die Ziele und Aktivitäten unseres Vereins einsetzen. Lernen Sie die Personen kennen,
+ die hinter den Kulissen arbeiten, um unseren Verein erfolgreich zu führen.
+ &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+ &lt;h2&gt;Unser Team&lt;/h2&gt;
+ &lt;div class="grid grid-sm grid-border"&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img class="img-gallery" src="https://demo.web-sb.de/icon.webp" alt="Karin Hartl" loading="lazy" style="" /&gt;
+ 
+
+ &lt;h3&gt;Karin Hartl&lt;/h3&gt;
+ &lt;p&gt;1. Vorsitzende&lt;/p&gt;
+ &lt;p&gt;Telefon: 08536/1337&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img class="img-gallery" src="https://demo.web-sb.de/icon.webp" alt="Bernhard Müller" loading="lazy" style="" /&gt;
+ 
+
+ &lt;h3&gt;Bernhard Müller&lt;/h3&gt;
+ &lt;p&gt;2. Vorsitzender&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img class="img-gallery" src="https://demo.web-sb.de/icon.webp" alt="Ulrike Hartl" loading="lazy" style="" /&gt;
+ 
+
+ &lt;h3&gt;Ulrike Hartl&lt;/h3&gt;
+ &lt;p&gt;Schriftführerin&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img class="img-gallery" src="https://demo.web-sb.de/icon.webp" alt="Anita Plattner" loading="lazy" style="" /&gt;
+ 
+
+ &lt;h3&gt;Anita Plattner&lt;/h3&gt;
+ &lt;p&gt;Kassiererin&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img class="img-gallery" src="https://demo.web-sb.de/icon.webp" alt="Norbert Hartl" loading="lazy" style="" /&gt;
+ 
+
+ &lt;h3&gt;Norbert Hartl&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>https://demo.web-sb.de/ueber-uns/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/ueber-uns/mitgliedschaft/</guid><description>&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/ueber-uns/mitgliedschaft/mitglied-werden_hu_35bb91754068cf46.webp"
+ alt="Mitglied werden"
+ loading="lazy"
+ style="aspect-ratio: 512 / 341; background-image: url(data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoKAAcAAph8J4wAAt0JFBkAAP7anUIqMzukEtwf8iqYhBEYZrIfhWBWs95TTyhGKQgAAA==); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+
+&lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
+ &lt;p&gt;Interessiert an unserem Verein?&lt;/p&gt;
+ &lt;p&gt;Werden Sie Mitglied und profitieren Sie von unseren Veranstaltungen, dem monatlichen Gartenratgeber und der Gemeinschaft.&lt;/p&gt;
+ &lt;p&gt;Füllen Sie den Aufnahmeantrag aus und senden Sie ihn an die Vorstandschaft.&lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="https://demo.web-sb.de/download.pdf" class="btn" aria-label="Aufnahmeantrag" title="Aufnahmeantrag"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"&gt;&lt;path d="M0 0h24v24H0V0z" fill="none"/&gt;&lt;path d="M16.59 9H15V4c0-.55-.45-1-1-1h-4c-.55 0-1 .45-1 1v5H7.41c-.89 0-1.34 1.08-.71 1.71l4.59 4.59c.39.39 1.02.39 1.41 0l4.59-4.59c.63-.63.19-1.71-.7-1.71zM5 19c0 .55.45 1 1 1h12c.55 0 1-.45 1-1s-.45-1-1-1H6c-.55 0-1 .45-1 1z"/&gt;&lt;/svg&gt;
+ Aufnahmeantrag&lt;/a&gt;
+ &lt;a href="https://demo.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/&gt;&lt;/svg&gt;
+ Kontakt&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Welche Vorteile hat eine Mitgliedschaft?&lt;/summary&gt;
+ &lt;p&gt;
+ Eine Mitgliedschaft bietet Ihnen Zugang zu all unseren Veranstaltungen, Workshops und Projekten. Sie erhalten den monatlichen Gartenratgeber, profitieren von der Gemeinschaft und können aktiv an
+ der Förderung nachhaltiger Gartenpraktiken teilnehmen.
+ &lt;/p&gt;</description></item><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
+ &lt;div&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/flex-col/photo1_hu_20b06eaad64a3e4d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+
+&lt;/div&gt;
+ &lt;div&gt;
+ &lt;h2&gt;flex-col mit wenig Text&lt;/h2&gt;
+ &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+ &lt;a href="https://demo.web-sb.de/termin/" class="btn"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.1 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/&gt;&lt;/svg&gt;
+ Termin vereinbaren&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class="flex-col-reverse"&gt;
+ &lt;div&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/flex-col/photo2_hu_6dea888b10e99bda.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+
+&lt;/div&gt;
+
+ &lt;div&gt;
+ &lt;h2&gt;flex-col-reverse mit viel Text&lt;/h2&gt;
+ &lt;p&gt;
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+ nisi ut aliquip ex ea commodo consequat.
+ &lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;style&gt;&lt;/style&gt;
+
+&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
+ &lt;h1&gt;Bildergalerie&lt;/h1&gt;
+
+ &lt;p&gt;Hier ist eine Übersicht zufälliger Bilder. Klicke auf ein Bild, um es vergrößert anzuzeigen.&lt;/p&gt;
+
+ &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;!-- prettier-ignore --&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo1_hu_20b06eaad64a3e4d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo2_hu_6dea888b10e99bda.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo3_hu_b580939d28eab708.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo4_hu_6565be25c6aa7e5d.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo5_hu_6b51b422091289e1.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 666; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J4wCdAD0rrwWAAD2ojytjH16Cn5EQzLL6ncIEIlwo83a8Yl/EJQA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery img-thumb"
+ src="https://demo.web-sb.de/multi-col/galerie/photo6_hu_442f81fe371f8580.webp"
+ alt="Cover"
+ loading="lazy"
+ style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoKAAcAAph8J5wC7AELU0cqAAD&amp;#43;TM&amp;#43;uj9fSOl4A&amp;#43;eh4aoAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;/div&gt;
+&lt;/section&gt;</description></item><item><title>grid</title><link>https://demo.web-sb.de/multi-col/grid/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/grid/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Unser Team&lt;/h1&gt;
+ &lt;h2&gt;Vorstandschaft&lt;/h2&gt;
+ &lt;div class="grid"&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class="img-gallery"
+ src="https://demo.web-sb.de/multi-col/grid/photo1_hu_3b47150a9ac5dba6.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Max Mustermann&lt;/h3&gt;
+ &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
+ &lt;p&gt;Mobil: +491234567890&lt;/p&gt;
+ &lt;p&gt;E-Mail: max.mustermann@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo2_hu_c2b5d7ebf25e4be2.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Anna Schmidt&lt;/h3&gt;
+ &lt;p&gt;Atemschutzwart&lt;/p&gt;
+ &lt;p&gt;Mobil: +491234567891&lt;/p&gt;
+ &lt;p&gt;E-Mail: anna.schmidt@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo3_hu_46c6b262d7db7a9c.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Peter Müller&lt;/h3&gt;
+ &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
+ &lt;p&gt;E-Mail: peter.mueller@example.com&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;img
+ class=""
+ src="https://demo.web-sb.de/multi-col/grid/photo4_hu_b56cb13f31495a28.webp"
+ alt="Max Mustermann"
+ loading="lazy"
+ style="aspect-ratio: 500 / 334; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
+ /&gt;
+ 
+
+ &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
+ &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>Icons</title><link>https://demo.web-sb.de/icons/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/icons/</guid><description>&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
  &lt;h1&gt;Alle verfügbaren Icons&lt;/h1&gt;
 
  &lt;p&gt;Hier ist eine Übersicht aller Icons, die in diesem Hugo-Theme verfügbar sind. Jedes Icon ist als Button dargestellt.&lt;/p&gt;
@@ -15,11 +657,11 @@
 
  &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/&gt;&lt;/svg&gt;
  Email schreiben&lt;/a&gt;
- &lt;a class="btn" aria-label="Contact" title="Contact"&gt;
+ &lt;a href="https://demo.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;
 
 
  &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/&gt;&lt;/svg&gt;
- Contact&lt;/a&gt;
+ Kontakt&lt;/a&gt;
  &lt;a href="tel:+49123456789" class="btn" aria-label="Fax" title="Fax"&gt;
 
 
@@ -334,311 +976,7 @@
  &lt;p&gt;
  Ort: Stadtpark&lt;br /&gt;
  Übung mit Schwerpunkt auf Brandbekämpfung
- &lt;/p&gt;</description></item><item><title>flex-cols</title><link>https://demo.web-sb.de/multi-col/flex-col/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/flex-col/</guid><description>&lt;section id="ueber-uns" class="flex-col"&gt;
- &lt;div&gt;
-
-
-
-
-
-
-
-
-
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/flex-col/photo1_hu_20b06eaad64a3e4d.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
-
-&lt;/div&gt;
- &lt;div&gt;
- &lt;h2&gt;flex-col mit wenig Text&lt;/h2&gt;
- &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
- &lt;a href="https://demo.web-sb.de/termin/" class="btn"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.1 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/&gt;&lt;/svg&gt;
- Termin vereinbaren&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class="flex-col-reverse"&gt;
- &lt;div&gt;
-
-
-
-
-
-
-
-
-
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/flex-col/photo2_hu_6dea888b10e99bda.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
- /&gt;
-
-&lt;/div&gt;
-
- &lt;div&gt;
- &lt;h2&gt;flex-col-reverse mit viel Text&lt;/h2&gt;
- &lt;p&gt;
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
- nisi ut aliquip ex ea commodo consequat.
- &lt;/p&gt;</description></item><item><title>grid</title><link>https://demo.web-sb.de/multi-col/grid/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/grid/</guid><description>&lt;section&gt;
- &lt;h1&gt;Unser Team&lt;/h1&gt;
- &lt;h2&gt;Vorstandschaft&lt;/h2&gt;
- &lt;div class="grid"&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery"
- src="https://demo.web-sb.de/multi-col/grid/photo1_hu_3b47150a9ac5dba6.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Max Mustermann&lt;/h3&gt;
- &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567890&lt;/p&gt;
- &lt;p&gt;E-Mail: max.mustermann@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo2_hu_c2b5d7ebf25e4be2.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Anna Schmidt&lt;/h3&gt;
- &lt;p&gt;Atemschutzwart&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567891&lt;/p&gt;
- &lt;p&gt;E-Mail: anna.schmidt@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo3_hu_46c6b262d7db7a9c.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 333; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Peter Müller&lt;/h3&gt;
- &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
- &lt;p&gt;E-Mail: peter.mueller@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class=""
- src="https://demo.web-sb.de/multi-col/grid/photo4_hu_b56cb13f31495a28.webp"
- alt="Max Mustermann"
- loading="lazy"
- style="aspect-ratio: 500 / 334; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
- &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;</description></item><item><title>Galerie</title><link>https://demo.web-sb.de/multi-col/galerie/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/multi-col/galerie/</guid><description>&lt;style&gt;&lt;/style&gt;
-
-&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
- &lt;h1&gt;Bildergalerie&lt;/h1&gt;
-
- &lt;p&gt;Hier ist eine Übersicht zufälliger Bilder. Klicke auf ein Bild, um es vergrößert anzuzeigen.&lt;/p&gt;
-
- &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
- &lt;!-- prettier-ignore --&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo1_hu_20b06eaad64a3e4d.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J7ACdAEOupmYAAD&amp;#43;WHDLMKy/IbEYqnw6zgmKAPRTGtlCBXdPgAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo2_hu_6dea888b10e99bda.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAcAAph8JwBOgCFkMfoAAM13/6dnHeCGavFHq2oxGTP4yAaNQe49D0R462ywAAA=); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo3_hu_b580939d28eab708.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAcAAph8J7AC7AEVu5a9WgAAzh6ZDQ7RrlK&amp;#43;YxlCycBxAB/TLYveORJLUUgA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo4_hu_6565be25c6aa7e5d.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8JwBdgBtjllhCAAD9/OghF8/mVpSXaE8dOPp&amp;#43;EgCOekAI3AJ/cAAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo5_hu_6b51b422091289e1.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 666; background-image: url(data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAcAAph8J4wCdAD0rrwWAAD2ojytjH16Cn5EQzLL6ncIEIlwo83a8Yl/EJQA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;img
- class="img-gallery img-thumb"
- src="https://demo.web-sb.de/multi-col/galerie/photo6_hu_442f81fe371f8580.webp"
- alt="Cover"
- loading="lazy"
- style="aspect-ratio: 1000 / 667; background-image: url(data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoKAAcAAph8J5wC7AELU0cqAAD&amp;#43;TM&amp;#43;uj9fSOl4A&amp;#43;eh4aoAA); background-size: cover; background-repeat: no-repeat; "
- /&gt;
- 
-
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Datenschutz</title><link>https://demo.web-sb.de/datenschutz/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Datenschutz</title><link>https://demo.web-sb.de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
  &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
 
  &lt;p&gt;
@@ -652,7 +990,7 @@
  &lt;p&gt;
  Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
  angegebenen Kontaktwege an uns wenden.
- &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://demo.web-sb.de/impressum/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/impressum/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://demo.web-sb.de/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/impressum/</guid><description>&lt;section&gt;
  &lt;h1&gt;Impressum&lt;/h1&gt;
  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
  &lt;p&gt;
@@ -660,19 +998,9 @@
  [Straße Hausnummer]&lt;br /&gt;
  [PLZ Ort]
  &lt;/p&gt;
- &lt;h3&gt;Vertreten durch&lt;/h3&gt;
- &lt;p&gt;[Vorname Nachname]&lt;/p&gt;
- &lt;h3&gt;Kontakt&lt;/h3&gt;
+ &lt;h3&gt;Vertretungsberechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
  &lt;p&gt;
- Telefon: [Telefonnummer]&lt;br /&gt;
- E-Mail: [E-Mail-Adresse]
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h3&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h3&gt;
- &lt;p&gt;
- [Vorname Nachname]&lt;br /&gt;
+ [Vorname Nachname], Vorstand&lt;br /&gt;
  [Straße Hausnummer]&lt;br /&gt;
  [PLZ Ort]
  &lt;/p&gt;
@@ -683,16 +1011,14 @@
  &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;
  &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;
  &lt;h3&gt;Haftung für Links&lt;/h3&gt;
- &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description></item><item><title>Kontakt</title><link>https://demo.web-sb.de/kontakt/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/kontakt/</guid><description>&lt;section&gt;
+ &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description></item><item><title>Kontakt</title><link>https://demo.web-sb.de/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/kontakt/</guid><description>&lt;section&gt;
  &lt;h1&gt;Kontakt&lt;/h1&gt;
  &lt;p&gt;
  Telefon: +49 123 456789&lt;br /&gt;
  Fax: +49 123 456790&lt;br /&gt;
  E-Mail: info@example.com
  &lt;/p&gt;
- &lt;p&gt;Telefonisch sind wir täglich bis 13:30 Uhr erreichbar.&lt;/p&gt;
- &lt;p&gt;Für Termine halten Sie bitte Ihre Heilmittelverordnung bereit.&lt;/p&gt;
- &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;div class="btn-group"&gt;
  &lt;a class="btn" href="tel:+49123456789" aria-label="Anrufen"&gt;
 
 
@@ -711,4 +1037,20 @@
  Musterfirma&lt;br /&gt;
  Musterstraße 123&lt;br /&gt;
  12345 Musterstadt
+ &lt;/p&gt;
+ &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Musterfirma,+Musterstraße+123,+12345+Musterstadt" aria-label="Anfahrt planen"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"&gt;&lt;g&gt;&lt;rect fill="none" height="24" width="24"/&gt;&lt;/g&gt;&lt;g&gt;&lt;path d="M12,2c-4.2,0-8,3.22-8,8.2c0,3.18,2.45,6.92,7.34,11.23c0.38,0.33,0.95,0.33,1.33,0C17.55,17.12,20,13.38,20,10.2 C20,5.22,16.2,2,12,2z M12,12c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2c1.1,0,2,0.9,2,2C14,11.1,13.1,12,12,12z"/&gt;&lt;/g&gt;&lt;/svg&gt;
+ Anfahrt planen&lt;/a&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Öffnungszeiten&lt;/h2&gt;
+ &lt;p&gt;
+ Montag: 08:00 - 17:00&lt;br /&gt;
+ Dienstag: 08:00 - 17:00&lt;br /&gt;
+ Mittwoch: 08:00 - 17:00&lt;br /&gt;
+ Donnerstag: 08:00 - 17:00&lt;br /&gt;
+ Freitag: 08:00 - 13:00
  &lt;/p&gt;</description></item></channel></rss>
