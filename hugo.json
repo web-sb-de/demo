@@ -24,11 +24,13 @@
     "icon": "/icon.webp",
     "cover": "/cover.webp",
     "colors": {
-      "background": "#ffffff",
+      "bg": "#ffffff",
       "text": "#000000",
-      "surface": "#ebeeff",
-      "element_background": "#304ffe",
-      "element_text": "#ffffff"
+      "surface": "#304ffe11",
+      "btn": "#304ffe",
+      "btn_text": "#ffffff",
+      "btn_tonal": "#304ffe11",
+      "btn_tonal_text": "#0000000"
     },
     "description": "WEB-SB - Professionelle Webentwicklung für gemeinnützige Vereine. Minimalistische, ultraschnelle Websites mit Hugo.",
     "author": "Sebastian Brunner",
