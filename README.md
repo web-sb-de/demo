@@ -27,3 +27,9 @@ git push -u origin main
 - /content befüllen
 - /content Bilder in webp umwandeln
 - ./build.sh
+
+# Überprüfen
+
+- hugo.json
+- frontmatter
+- &shy; umbrüche
