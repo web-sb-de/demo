@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infos on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/infos/</link><description>Recent content in Infos on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://demo.web-sb.de/infos/index.xml" rel="self" type="application/rss+xml"/><item><title>Vorstandschaft</title><link>https://demo.web-sb.de/infos/vorstandschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/infos/vorstandschaft/</guid><description>&lt;section&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infos on WEB-SB - Professionelle, statische Webentwicklung</title><link>http://192.168.1.16:1313/infos/</link><description>Recent content in Infos on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="http://192.168.1.16:1313/infos/index.xml" rel="self" type="application/rss+xml"/><item><title>Vorstandschaft</title><link>http://192.168.1.16:1313/infos/vorstandschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/infos/vorstandschaft/</guid><description>&lt;section&gt;
  &lt;h1&gt;Vorstand&amp;shy;schaft&lt;/h1&gt;
  &lt;p&gt;
  Unsere engagierte Vorstandschaft setzt sich aus erfahrenen Mitgliedern zusammen, die sich leidenschaftlich für die Ziele und Aktivitäten unseres Vereins einsetzen. Lernen Sie die Personen kennen,
@@ -9,31 +9,31 @@
  &lt;h2&gt;Unser Team&lt;/h2&gt;
  &lt;div class="grid grid-sm grid-border"&gt;
  &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;img src="https://demo.web-sb.de/icon.webp" width="500x" alt="Karin Hartl" /&gt;
+ &lt;img src="http://192.168.1.16:1313/icon.webp" width="500x" alt="Karin Hartl" /&gt;
 
  &lt;h3&gt;Karin Hartl&lt;/h3&gt;
  &lt;p&gt;1. Vorsitzende&lt;/p&gt;
  &lt;p&gt;Telefon: 08536/1337&lt;/p&gt;
  &lt;/div&gt;
  &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;img src="https://demo.web-sb.de/icon.webp" width="500x" alt="Bernhard Müller" /&gt;
+ &lt;img src="http://192.168.1.16:1313/icon.webp" width="500x" alt="Bernhard Müller" /&gt;
  &lt;h3&gt;Bernhard Müller&lt;/h3&gt;
  &lt;p&gt;2. Vorsitzender&lt;/p&gt;
  &lt;/div&gt;
  &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;img src="https://demo.web-sb.de/icon.webp" width="500x" alt="Ulrike Hartl" /&gt;
+ &lt;img src="http://192.168.1.16:1313/icon.webp" width="500x" alt="Ulrike Hartl" /&gt;
  &lt;h3&gt;Ulrike Hartl&lt;/h3&gt;
  &lt;p&gt;Schriftführerin&lt;/p&gt;
  &lt;/div&gt;
  &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;img src="https://demo.web-sb.de/icon.webp" width="500x" alt="Anita Plattner" /&gt;
+ &lt;img src="http://192.168.1.16:1313/icon.webp" width="500x" alt="Anita Plattner" /&gt;
  &lt;h3&gt;Anita Plattner&lt;/h3&gt;
  &lt;p&gt;Kassiererin&lt;/p&gt;
  &lt;/div&gt;
  &lt;div class="grid-item" style="justify-content: start"&gt;
- &lt;img src="https://demo.web-sb.de/icon.webp" width="500x" alt="Norbert Hartl" /&gt;
+ &lt;img src="http://192.168.1.16:1313/icon.webp" width="500x" alt="Norbert Hartl" /&gt;
  &lt;h3&gt;Norbert Hartl&lt;/h3&gt;
- &lt;p&gt;Beisitzer&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>https://demo.web-sb.de/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/infos/mitgliedschaft/</guid><description>&lt;section&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>http://192.168.1.16:1313/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/infos/mitgliedschaft/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
  &lt;img src="mitglied-werden.webp" width="512x" alt="Mitglied werden" /&gt;
@@ -44,8 +44,8 @@
  &lt;p&gt;Werden Sie Mitglied und profitieren Sie von unseren Veranstaltungen, dem monatlichen Gartenratgeber und der Gemeinschaft.&lt;/p&gt;
  &lt;p&gt;Füllen Sie den Aufnahmeantrag aus und senden Sie ihn an die Vorstandschaft.&lt;/p&gt;
  &lt;div class="btn-group"&gt;
- &lt;a href="https://demo.web-sb.de/download.pdf" class="btn" aria-label="Aufnahmeantrag" title="Aufnahmeantrag"&gt;&lt;i&gt;download&lt;/i&gt; Aufnahmeantrag&lt;/a&gt;
- &lt;a href="https://demo.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
+ &lt;a href="http://192.168.1.16:1313/download.pdf" class="btn" aria-label="Aufnahmeantrag" title="Aufnahmeantrag"&gt;&lt;i&gt;download&lt;/i&gt; Aufnahmeantrag&lt;/a&gt;
+ &lt;a href="http://192.168.1.16:1313/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</title><link>https://demo.web-sb.de/aktuelles/</link><description>Recent content in Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://demo.web-sb.de/aktuelles/index.xml" rel="self" type="application/rss+xml"/><item><title>Termine</title><link>https://demo.web-sb.de/aktuelles/termine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/termine/</guid><description>&lt;section&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</title><link>http://192.168.1.16:1313/aktuelles/</link><description>Recent content in Aktuelles on WEB-SB - Professionelle, statische Webentwicklung</description><generator>Hugo</generator><language>de-de</language><atom:link href="http://192.168.1.16:1313/aktuelles/index.xml" rel="self" type="application/rss+xml"/><item><title>Termine</title><link>http://192.168.1.16:1313/aktuelles/termine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/aktuelles/termine/</guid><description>&lt;section&gt;
  &lt;h2&gt;Januar&lt;/h2&gt;
  &lt;h3&gt;Termin 1&lt;/h3&gt;
  &lt;h4&gt;Montag, 15.01.2026, 19:00 Uhr&lt;/h4&gt;
@@ -18,7 +18,7 @@
  &lt;p&gt;
  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
  nulla pariatur.
- &lt;/p&gt;</description></item><item><title>Sommerfest</title><link>https://demo.web-sb.de/aktuelles/fest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.web-sb.de/aktuelles/fest/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Sommerfest</title><link>http://192.168.1.16:1313/aktuelles/fest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/aktuelles/fest/</guid><description>&lt;section&gt;
  &lt;h1&gt;Kripperlweg 2025&lt;/h1&gt;
  &lt;p&gt;Erleben Sie die festliche Stimmung auf unserem Kripperlweg im Dezember 2025. Entdecken Sie liebevoll gestaltete Krippen und genießen Sie die weihnacht&lt;/p&gt;
 &lt;/section&gt;
